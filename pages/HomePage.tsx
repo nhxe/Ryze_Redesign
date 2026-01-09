@@ -183,7 +183,7 @@ const HomePage: React.FC = () => {
             Risk-free trial, no setup fees.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center relative z-10">
-            <Link to="/pricing" className="bg-white text-brand-900 font-black px-12 py-5 rounded-2xl text-xl hover:scale-110 transition-all shadow-2xl">
+            <Link to="/pricing" className="bg-white text-brand-900 text-black font-bold px-12 py-5 rounded-2xl text-xl hover:scale-110 transition-all shadow-2xl">
               Get Started Now
             </Link>
             <button className="bg-transparent text-white border border-white/30 font-bold px-12 py-5 rounded-2xl text-xl hover:bg-white/10 transition-all">
