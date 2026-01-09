@@ -1,8 +1,5 @@
 # Ryze AI Website Redesign
 
-(https://ryzeredesignmanasvi.netlify.app/screenshot-desktop.png)  
-
-
 ## Live Demo
 **[View Live Site](https://ryzeredesignmanasvi.netlify.app/)**
 
