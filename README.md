@@ -47,7 +47,6 @@ The site is built with reusability and maintainability in mind:
 ## Tech Stack
 - **Framework**: React + TypeScript
 - **Build Tool**: Vite
-- **Styling**: [Add your styling method, e.g., Tailwind CSS, CSS Modules, or plain CSS]
 - **Deployment**: Netlify (auto-deploy from GitHub)
 
 
