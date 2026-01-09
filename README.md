@@ -1,8 +1,5 @@
 # Ryze AI Website Redesign
 
-![Homepage Preview](https://ryzeredesignmanasvi.netlify.app/screenshot-desktop.png)  
-
-
 ## Live Demo
 **[View Live Site](https://ryzeredesignmanasvi.netlify.app/)**
 
@@ -18,7 +15,7 @@ This redesign covers:
 ## Design Decisions
 - **Overall Aesthetic**: Sophisticated dark-mode minimalist B2B SaaS style, inspired by premium platforms like Vercel, Linear, and Stripe. Generous white space, subtle depth with soft shadows, and understated micro-interactions for a luxurious, trustworthy feel.
 - **Color Palette**:
-  - Background: Deep slate/navy (#0f172a or similar)
+  - Background: Deep slate/navy (#0f172a)
   - Text: Crisp white/off-white
   - Primary CTA: Vibrant teal (#0ea5e9)
   - Highlights: Subtle warm orange gradients (#fb923c)
@@ -47,7 +44,6 @@ The site is built with reusability and maintainability in mind:
 ## Tech Stack
 - **Framework**: React + TypeScript
 - **Build Tool**: Vite
-- **Styling**: [Add your styling method, e.g., Tailwind CSS, CSS Modules, or plain CSS]
 - **Deployment**: Netlify (auto-deploy from GitHub)
 
 
