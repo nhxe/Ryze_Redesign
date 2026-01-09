@@ -1,7 +1,7 @@
 # Ryze AI Website Redesign
 
 ## Live Demo
-**[View Live Site](https://ryzeredesignmanasvi.netlify.app/)**
+**[View Live Site](https://ryzeredesignmanasvi.netlify.app/)** https://ryzeredesignmanasvi.netlify.app
 
 ## Overview
 This project is a complete redesign of the original [get-ryze.ai](https://www.get-ryze.ai/) website, created as part of a website redesign assignment.
