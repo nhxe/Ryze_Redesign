@@ -18,7 +18,7 @@ This redesign covers:
 ## Design Decisions
 - **Overall Aesthetic**: Sophisticated dark-mode minimalist B2B SaaS style, inspired by premium platforms like Vercel, Linear, and Stripe. Generous white space, subtle depth with soft shadows, and understated micro-interactions for a luxurious, trustworthy feel.
 - **Color Palette**:
-  - Background: Deep slate/navy (#0f172a or similar)
+  - Background: Deep slate/navy (#0f172a)
   - Text: Crisp white/off-white
   - Primary CTA: Vibrant teal (#0ea5e9)
   - Highlights: Subtle warm orange gradients (#fb923c)
