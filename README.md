@@ -1,6 +1,6 @@
 # Ryze AI Website Redesign
 
-![Homepage Preview](https://ryzeredesignmanasvi.netlify.app/screenshot-desktop.png)  
+(https://ryzeredesignmanasvi.netlify.app/screenshot-desktop.png)  
 
 
 ## Live Demo
